@@ -1,0 +1,31 @@
+node_modules/
+glb_identifier/assets/
+
+# Nasty!
+cookies.txt
+
+# strace logs
+*.log
+
+# manifest files
+manifest*.json
+
+# http archives
+http/
+*.tgz
+*.zip
+ROBLOX_SHIT/
+
+# export folders
+out/
+png/
+
+# asset archive
+Safekeeping/
+
+# PVRTexTool
+PVRTexToolCLI
+tmp.pvr
+
+# ID to hash maps
+asset_*.json

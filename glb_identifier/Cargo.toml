@@ -1,0 +1,11 @@
+[package]
+name = "glb_identifier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.7"
+bevy_flycam = "0.7"
+bevy_infinite_grid = { git = "https://github.com/ForesightMiningSoftwareCorporation/bevy_infinite_grid", branch = "main" }
+bevy-inspector-egui = "0.11"
+bevy_egui = "0.14"
